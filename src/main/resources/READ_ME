@@ -1,0 +1,2 @@
+Change Database details in application.properties
+Create database which is specified in "datasource.url"
